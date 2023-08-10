@@ -2,7 +2,6 @@ from BinarySearchTree.BST import Tree
 
 
 class TestBST:
-
     def test_insert(self):
         tree = Tree()
         tree.insert(5)
