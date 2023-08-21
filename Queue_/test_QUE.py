@@ -1,5 +1,5 @@
 import pytest
-from Queue.QUE import Queue
+from Queue_.QUE import Queue
 
 
 class TestQueue:
